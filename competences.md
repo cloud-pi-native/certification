@@ -1,9 +1,18 @@
 **Certification Cloud Pi Native (Travail préliminaire)**
 
-Inventaire des compétences nécessaires en vue d'obtenir la certification Cloud Pi Native et modalité de validation de compétence.
+Inventaire des compétences nécessaires en vue d'obtenir la certification Cloud Pi Native et modalité de validation des compétences.
 
-**Module « practitioner » :**
+La certification s'effectue progressivement et à plusieurs niveaux:
 
+- Base et vision numérique de demain
+- Practitioner utilisateurs et Avancés (expert)
+- Contributeur à l’offre : comment contribuer à l'offre.
+- Coaching et transformation d'équipe : comment faire en sorte que l'équipe intègre les concepts, s'améliore en continue, 
+- Module animation de communautés internes
+
+Nous sommes à votre écoute pour toute suggestion, critique et apport de contenu.
+
+**Module « base et vision numérique de demain » :**
 - Comprendre la vision associée à Cloud Pi Native
 - Comprendre la spécificité de Kubernetes, l’architecture d’intégration, l’architecture facilitant l'agilité.
 - Comprendre le landscape cncf, choisir les produits, opérateurs
@@ -14,6 +23,7 @@ Inventaire des compétences nécessaires en vue d'obtenir la certification Cloud
   - QCM
   - Travaux pratique : designer une architecture logicielle cloud native compatible avec cloud pi native.
 
+**Module « practitioner » :**
 - Mettre en place un premier déploiement et le premier build / déploiement. Identifier les ressources nécessaires.
 
   Validation des acquis par :
@@ -51,7 +61,7 @@ Inventaire des compétences nécessaires en vue d'obtenir la certification Cloud
   - QCM
   - Travaux pratique :  faire un PR, contribution.
 
-**Module « Coach transformation » :**
+**Module « Coaching et transformation d'équipe » :**
 
 - Maîtriser le repository github, Comprendre les exigences du CCT cloud pi native
 - Transmettre, Coacher, mettre en place une organisation en charge de faire du tutoriat. 
