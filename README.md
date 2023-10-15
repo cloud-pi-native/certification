@@ -4,7 +4,7 @@ Cloud Pi Native est un programme d'ensemble du ministère de l'Intérieur et des
 
 Les choix structurant sont l'utilisation exclusive de Kubernetes pour l'orchestration de conteuneurs et le modèle opérationnel "you built it, you run it" et la mise en disposition en open-source de l'ensemble des ressources sauf portion sensible.
 
-Dans ce repository vous trouverez l'ensemble des ressources nécessaire pour :
+**Dans ce repository vous trouverez l'ensemble des ressources nécessaire pour :**
 
 - comprendre le processus de certification
 - identifier les compétences requises
