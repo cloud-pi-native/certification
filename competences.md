@@ -1,4 +1,4 @@
-**Certification Cloud Pi Native (Travail préliminaire)**
+# Certification Cloud Pi Native (Travail préliminaire)
 
 Inventaire des compétences nécessaires en vue d'obtenir la certification Cloud Pi Native et modalité de validation des compétences.
 
