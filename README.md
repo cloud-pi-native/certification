@@ -14,7 +14,7 @@ Les choix structurant sont l'utilisation exclusive de Kubernetes pour l'orchestr
 **Le programme d'ensemble Cloud Pi Native inclus :**
 
 - une architecture applicative de référence facilitant la construction et l'homologation des applications
-- un pipeline DevSecOps à 2 chaines permettant à un développeur de construire et déployer en continue une application sur les environnements ministériel ou vers un cloud public depuis son environnement de travail pouvant être situé sur internet
+- un pipeline DevSecOps à 2 étapes permettant à un développeur de construire et déployer en continue une application sur les environnements ministériel ou vers un cloud public depuis son environnement de travail pouvant être situé sur internet
 - une console et une infrastructure automatisée permettant une mise à disposition rapide des ressources d'insfrastructures au profil d'un hébergement sur le cloud Pi du ministère
 - un cadre de cohérence technique dédié à cette offre, comprenant un référentiel d'exigences à respecter
 - un programme de formation d'ensemble du ministère, au cloud, à l'agilité, au mode produit, dont une valise de fomation et de référencement de ressources majoritairement gratuite permettant la montée en connaissance des acteurs
