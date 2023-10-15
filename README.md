@@ -4,6 +4,8 @@ Cloud Pi Native est un programme d'ensemble du ministère de l'Intérieur et des
 
 Les choix structurant sont l'utilisation exclusive de Kubernetes pour l'orchestration de conteuneurs et le modèle opérationnel "you built it, you run it" et la mise en disposition en open-source de l'ensemble des ressources sauf portion sensible.
 
+L'hébergement peut-être effectué soit au ministère soit sur un cloud public si le niveau de sensbilité des données le permet et l'absence de conflit de norme juridique entre les CGU de l'hébergeur avec les réglementations française et européennes.
+
 **Dans ce repository vous trouverez l'ensemble des ressources nécessaire pour :**
 
 - comprendre le processus de certification
@@ -15,7 +17,7 @@ Les choix structurant sont l'utilisation exclusive de Kubernetes pour l'orchestr
 
 - une architecture applicative de référence facilitant la construction et l'homologation des applications
 - un pipeline DevSecOps à 2 étapes permettant à un développeur de construire et déployer en continue une application sur les environnements ministériel ou vers un cloud public depuis son environnement de travail pouvant être situé sur internet
-- une console et une infrastructure automatisée permettant une mise à disposition rapide des ressources d'insfrastructures au profil d'un hébergement sur le cloud Pi du ministère
+- une console et une infrastructure automatisée permettant une mise à disposition rapide des ressources d'insfrastructures au profil d'un hébergement sur le cloud Pi du ministère. 
 - un cadre de cohérence technique dédié à cette offre, comprenant un référentiel d'exigences à respecter
 - un programme de formation d'ensemble du ministère, au cloud, à l'agilité, au mode produit, dont une valise de fomation et de référencement de ressources majoritairement gratuite permettant la montée en connaissance des acteurs
 - un programme de certification, l'objet de ce repository permettant de valider les acquis de compétence dans l'objectif de répartir la connaissance auprès des développeurs et des entreprise de service numérique.
@@ -37,7 +39,7 @@ A titre individuel, les développeurs peuvent suivre le programme et identifier 
 
  Nous sommes à votre écoute pour toute suggestion, critique et apport de contenu. 
 
-Bien à vous, l'équipe Cloud Pi Native :)
+Bien à vous, l'équipe Cloud Pi Native ;)
 
 
 
