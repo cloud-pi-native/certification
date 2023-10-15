@@ -7,7 +7,7 @@ La certification s'effectue progressivement et à plusieurs niveaux:
 - Base et vision numérique de demain
 - Practitioner utilisateurs et Avancés (expert)
 - Contributeur à l’offre : comment contribuer à l'offre.
-- Coaching et transformation d'équipe : comment faire en sorte que l'équipe intègre les concepts, s'améliore en continue, 
+- Coaching et transformation d'équipe : comment faire en sorte que l'équipe intègre les concepts, s'améliore en continue. 
 - Module animation de communautés internes
 
 Nous sommes à votre écoute pour toute suggestion, critique et apport de contenu.
@@ -70,7 +70,7 @@ Nous sommes à votre écoute pour toute suggestion, critique et apport de conten
 - Maitriser la soutenabilité de maintenance d’un produit numérique, les bonnes pratiques, les copilotes IA
 
 - Maitriser la conduite du changement, les neuroscience,
-- Établir les plan de formation et accéder aux ressources libres et autres parcours de formation pour une entreprise 
+- Établir les plan de formation et accéder aux ressources libres et autres parcours de formation 
 - Créer sa propre valise de formation. Monter la qualité logicielle d’une équipes. 
 
   Validation des acquis par :
