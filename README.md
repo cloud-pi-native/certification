@@ -29,18 +29,17 @@ L'évaluation prend en charge la compétence nécessaire à soutenir l'agilité 
 
 **Programme de certification**
 
-Le programme de certification s'adresse à toute les structures qui souhaitent produire du numérique de qualité et former leurs équipes.
+Le programme de certification s'adresse à toute les structures à personne morale qui souhaitent produire du numérique de qualité et former leurs équipes dans le cadre d'un marché en cours. (capacité en fonction des capacités de traitement du ministère de l'Intérieur)
 
-La validation des acquis par le ministère n'est offerte qu'aux entreprises de service dans le cadre d'un marché en fonction des capacités de traitement du ministère.
+Il est envisagé que tout individu intéressé puisse suivre le programme pour identifier les compétences à acquerrir et contribuer à l'offre directement sur les plan technique et/ou contenu pédagogique.
 
-A titre individuel, les développeurs peuvent suivre le programme et identifier les compétences à acquerrir. 
-
-**Nous recrutons des volontaires pour :**
+**Dans le cadre de la certification nous recrutons des volontaires pour:**
 - la production et/ou la critique des éléments de contenu pédagogique
 - le cadre d'évaluation et le tutorat des coachs   
 - élaborer un test d'auto-évaluation qui sera accessible à tous.
 
  Le rythme de production de la certification est réalisée en incrément de planning tout les 2,5 mois environ. Synchronisé avec la production de l'offre elle-même.
+ Signalez-vous par les fonctions collaboratives de GitHub.
 
  Nous sommes à votre écoute pour toute suggestion, critique et apport de contenu. 
 
