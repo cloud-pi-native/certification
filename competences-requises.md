@@ -2,7 +2,7 @@
 
 Inventaire des compétences nécessaires en vue d'obtenir la certification Cloud Pi Native et modalité de validation des compétences.
 
-La certification s'effectue progressivement et à plusieurs niveaux:
+La certification concerne les domaines suivants de compétence:
 
 - Base et vision numérique de demain
 - Practitioner utilisateurs et Avancés (expert)
