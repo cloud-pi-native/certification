@@ -1,17 +1,22 @@
-# Certification Cloud Pi Native (version Alpha)
+# Certification Cloud Pi Native (work-in-progress)
+
+**Dans ce repository vous trouverez l'ensemble des ressources nécessaire pour:**
+- comprendre l'offre et la vision
+- comprendre et le processus de certification
+- identifier les compétences requises
+- contribuer à l'offre et au contenu de la certification
+- mettre en oeuvre le processus de certification et à qui il s'adresse
+
+**Contexte et vision:**
 
 Cloud Pi Native est un programme d'ensemble du ministère de l'Intérieur et des Outres-mer pour produire un numérique de qualité, soutenable dans la durée au coup de possession optimisé et qui répond au besoin. 
+L'objectif visé est de soutenir la production de produits logiciels de qualité, en réduisant la xharge de travail de l'équipe pour le construire, facilement évolutif et maintenable dans le temps avec un coût de possession optimisé tout en répondant au besoin en ce centrant sur l'usager.
 
-Les choix structurant sont l'utilisation exclusive de Kubernetes pour l'orchestration de conteuneurs et le modèle opérationnel "you built it, you run it" et la mise en disposition en open-source de l'ensemble des ressources sauf portion sensible.
-
+Les choix structurant sont l'utilisation exclusive de Kubernetes pour l'orchestration de conteuneurs,le modèle opérationnel "you built it, you run it" et la mise en disposition en open-source de l'ensemble des ressources sauf portion sensible.
 L'hébergement peut-être effectué soit au ministère soit sur un cloud public si le niveau de sensbilité des données le permet et l'absence de conflit de norme juridique entre les CGU de l'hébergeur avec les réglementations française et européennes.
 
-**Dans ce repository vous trouverez l'ensemble des ressources nécessaire pour :**
-
-- comprendre le processus de certification
-- identifier les compétences requises
-- le processus d'ensemble
-
+Cette certification à pour objectif de permettre de mettre en place un plan de développement des connaissances / compétences à travers au sein des équipes "services team" en charge d'aider les équipes produits intégrées et également de fournir une auto-évaluation personalisée de leurs compétences techniques pour toutes celles et ceux en charge de produire du numérique. 
+L'évaluation prend en charge la compétence nécessaire à soutenir l'agilité mais ne couvre pas le cadre méthodologique. Voir des cadres tel que SAFe pour cet objectif.
 
 **Le programme d'ensemble Cloud Pi Native inclus :**
 
