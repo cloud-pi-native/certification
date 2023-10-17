@@ -31,6 +31,7 @@ Nous sommes à votre écoute pour toute suggestion, critique et apport de conten
   travaux pratiques : faire une démonstration de la maîtrise d’un déploiement sur cloud pi ( sur plateforme simulée )
 
 - Construire un conteneur sécurisé (rootless, filesystem majoritairement readonly ) et permettant au mecanisme blue/green d'argo cd de fonctionner et facile à superviser.
+- Comprendre et Maitriser les ingress controlers, faire le deploiement le plus générique possible, maitriser les certificats et la chaine de service.
 
 - Trucs et astuces, quels sont les pratiques gagnantes et les points spécifiques à connaitre au quotidien.
 
