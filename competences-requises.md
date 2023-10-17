@@ -30,6 +30,8 @@ Nous sommes à votre écoute pour toute suggestion, critique et apport de conten
   Validation des acquis par :
   travaux pratiques : faire une démonstration de la maîtrise d’un déploiement sur cloud pi ( sur plateforme simulée )
 
+- Construire un conteneur sécurisé (rootless, filesystem majoritairement readonly ) et permettant au mecanisme blue/green d'argo cd de fonctionner et facile à superviser.
+
 - Trucs et astuces, quels sont les pratiques gagnantes et les points spécifiques à connaitre au quotidien.
 
   Validation des acquis par :
