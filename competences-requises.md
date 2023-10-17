@@ -25,7 +25,7 @@ Nous sommes à votre écoute pour toute suggestion, critique et apport de conten
   - Travaux pratique : designer une architecture logicielle cloud native compatible avec cloud pi native.
 
 **Module « practitioner » :**
-- Mettre en place un premier déploiement et le premier build / déploiement. Identifier les ressources nécessaires.
+- Mettre en place un premier déploiement et le premier build / déploiement. Identifier les ressources nécessaires. Comprendre et utiliser les outils.
 
   Validation des acquis par :
   travaux pratiques : faire une démonstration de la maîtrise d’un déploiement sur cloud pi ( sur plateforme simulée )
@@ -39,6 +39,7 @@ Nous sommes à votre écoute pour toute suggestion, critique et apport de conten
   - Capacité d'appel à la communauté d'échange de pratiques
 
 - L’agilité et le devops, mettre en place un flux.
+- Comprendre et maitriser la sécurité by design et les services sasts / dasts
 - Mettre en place un processus qualité logiciel, les tests, la sécurité et le processus de feed-back au développeur "Shift-Left"
 - Contribuer a l’homologation d’un projet en intégrant le socle de sécurité cloud pi native
 - Comprendre l'homologation, les exigences non-fonctionnelles liées à la sécurité
