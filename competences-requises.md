@@ -41,6 +41,7 @@ Nous sommes à votre écoute pour toute suggestion, critique et apport de conten
 - L’agilité et le devops, mettre en place un flux.
 - Comprendre et maitriser la sécurité by design et les services sasts / dasts
 - Mettre en place un processus qualité logiciel, les tests, la sécurité et le processus de feed-back au développeur "Shift-Left"
+- Comprendre le Sec de DevSecOps avec les services sast et dast ainsi que le scan regulier des images.
 - Contribuer a l’homologation d’un projet en intégrant le socle de sécurité cloud pi native
 - Comprendre l'homologation, les exigences non-fonctionnelles liées à la sécurité
 
