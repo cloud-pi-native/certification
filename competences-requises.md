@@ -18,8 +18,10 @@ Nous sommes à votre écoute pour toute suggestion, critique et apport de conten
 - Comprendre le landscape cncf, choisir les produits, opérateurs
 - L'éthique et la responsabilité des developpeurs et des architectes.
 - Comprendre la loi de Conway et clean architecture : comprendre et maitriser les impacts du couplage technique et organisationnel, monolithe, monolithe distribué, micro service.
+- Industrialiser la production logicielle, simplifier et réduire la charge de deveoppement.
 - Comprendre la maintenabilité d’un produit numérique, la nécessite de refactoring, la répartition de la capacité d’une équipe
 - Comprendre la topologie des équipes
+- 
 - Bibliographie et grands contributeurs internationnaux.
 
   Validation des acquis par : 
