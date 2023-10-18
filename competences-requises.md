@@ -16,8 +16,10 @@ Nous sommes à votre écoute pour toute suggestion, critique et apport de conten
 - Comprendre la vision associée à Cloud Pi Native
 - Comprendre la spécificité de Kubernetes, l’architecture d’intégration, l’architecture facilitant l'agilité.
 - Comprendre le landscape cncf, choisir les produits, opérateurs
+- La responsabilité des developpeurs et des architectes, l'éthique.
 - Comprendre la loi de Conway et clean architecture : comprendre et maitriser les impacts du couplage technique et organisationnel, monolithe, monolithe distribué, micro service.
 - Comprendre la maintenabilité d’un produit numérique, la nécessite de refactoring, la répartition de la capacité d’une équipe
+- La topologie des equipes
 - Bibliographie et grands contributeurs internationnaux.
 
   Validation des acquis par : 
@@ -45,6 +47,7 @@ Nous sommes à votre écoute pour toute suggestion, critique et apport de conten
 - Comprendre le Sec de DevSecOps avec les services sast et dast ainsi que le scan regulier des images.
 - Contribuer a l’homologation d’un projet en intégrant le socle de sécurité cloud pi native
 - Comprendre l'homologation, les exigences non-fonctionnelles liées à la sécurité
+- Se former, mettre en place une discipline, identifier les ressources de formation disponible et gratuite.
 
   Validation des acquis par :
     - Travaux pratiques : vérifier la conformité, augmenter la qualité et la sécurité d’un logiciel, shift-left.  ( utilisation de co-pilote )
