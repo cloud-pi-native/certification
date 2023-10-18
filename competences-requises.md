@@ -16,10 +16,10 @@ Nous sommes à votre écoute pour toute suggestion, critique et apport de conten
 - Comprendre la vision associée à Cloud Pi Native
 - Comprendre la spécificité de Kubernetes, l’architecture d’intégration, l’architecture facilitant l'agilité.
 - Comprendre le landscape cncf, choisir les produits, opérateurs
-- La responsabilité des developpeurs et des architectes, l'éthique.
+- L'éthique et la responsabilité des developpeurs et des architectes.
 - Comprendre la loi de Conway et clean architecture : comprendre et maitriser les impacts du couplage technique et organisationnel, monolithe, monolithe distribué, micro service.
 - Comprendre la maintenabilité d’un produit numérique, la nécessite de refactoring, la répartition de la capacité d’une équipe
-- La topologie des equipes
+- Comprendre la topologie des équipes
 - Bibliographie et grands contributeurs internationnaux.
 
   Validation des acquis par : 
@@ -70,16 +70,20 @@ Nous sommes à votre écoute pour toute suggestion, critique et apport de conten
   - QCM
   - Travaux pratique :  faire un PR, contribution.
 
-**Module « Coaching et transformation d'équipe » :**
+**Module « Mettre en place et accompagner des équipes produits numériques intégrées » :**
 
 - Maîtriser le repository github, Comprendre les exigences du CCT cloud pi native
-- Transmettre, Coacher, mettre en place une organisation en charge de faire du tutoriat. 
-- Maitriser l’organisationnel associé à un produit numérique, Conway, clean architecture, etc…
+- Transmettre la connaissance minimale.
+- Coacher, mettre en place une organisation en charge de faire du tutoriat. 
+- Maitriser l’organisationnel associé à un produit numérique, Conway, clean architecture, etc
+- Comprendre la topologie des équipes (teams topologies)
+- comprendre les interactions d'organisation et l'impact des couplages organisationnels et techniques.
 - Maitriser la soutenabilité de maintenance d’un produit numérique, les bonnes pratiques, les copilotes IA
-
-- Maitriser la conduite du changement, les neuroscience,
+- Augmenter la qualité intraséques des logiciels,l'usager au centre
+- Les profils des developpeurs
+- Maitriser la conduite du changement, les neuroscience
 - Établir les plan de formation et accéder aux ressources libres et autres parcours de formation 
-- Créer sa propre valise de formation. Monter la qualité logicielle d’une équipes. 
+- Créer sa propre valise de formation. 
 
   Validation des acquis par :
   - Évaluation : monter un plan de formation d’une équipe à partir des ressources accessibles.
