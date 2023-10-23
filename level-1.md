@@ -70,11 +70,11 @@
    - ROM
 
  - Quelles méthodes peut-on utiliser pour protéger les secrets applicatifs ? 
-   - SOPS
-   - VAULT 
-   - KEYPASS
+   - J'utilise le service SOPS
+   - J'utilise le service Hashicorp VAULT 
+   - J'utilise un KEYPASS partagé avec la ServiceTeam
    - J’envoie mes secrets via un ticket 
-   - K8S
+   - j'utilise des secrets K8S
    
 ## Techniques
  - Qu’est ce qui peut expliquer que mon déploiement est bloqué côté MI ? 
@@ -88,7 +88,7 @@
 
  - Comment je déclare mes ouvertures de flux, CDS, certificat, SSO ? 
    - Je crée un ticket à la Service Team
-   - Je contacte le BACI
+   - Je contacte le service infrastructure
    - Je le déclare dans la console DSO
 
  - Comment je garantie le déploiement avec un code de qualité ? 
