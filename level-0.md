@@ -6,12 +6,17 @@
    - Un accès aux service Cloud Pi
    - Les 3 réponses listées
 
-- Qui va utiliser l’usine logicielle DSO proposée dans le cadre de l'offre Cloud Pi Native
+- Qui bénéficie de l’offre Cloud Pi Native
    - Des products owner (PO)
    - Développeurs
    - Chefs de projet
    - Aux 3 profils ci-dessus
 
+- Qui va utiliser l’usine logicielle DSO proposée dans le cadre de l'offre Cloud Pi Native
+   - Des products owner (PO)
+   - Développeurs
+   - Chefs de projet
+   - Aux 3 profils ci-dessus
 
  - Quels sont les services proposés par Cloud Pi Native ?
    - L'outillage de type forge : Repo code, outils d'analyse et de construction
