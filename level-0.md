@@ -6,11 +6,12 @@
    - Un accès aux service Cloud Pi
    - Les 3 réponses listées
 
- - A qui s’adresse l’offre Cloud Pi Native (plusieurs réponses possibles)
+- Qui va utiliser l’usine logicielle DSO proposée dans le cadre de l'offre Cloud Pi Native
    - Des products owner (PO)
    - Développeurs
    - Chefs de projet
    - Aux 3 profils ci-dessus
+
 
  - Quels sont les services proposés par Cloud Pi Native ?
    - L'outillage de type forge : Repo code, outils d'analyse et de construction
@@ -18,7 +19,7 @@
    - Des outils d'analyse de sécurité
    - L'ensemble de 3 réponses
 
- - Comment souscrire à l’offre CPN – (uniquement administration ?) ?
+ - Comment souscrire à l’offre CPN ?
    - Via une demande sur le site démarches simplifiées
    - En contactant la ServiceTeam
    - Via une PR sur github.com
@@ -30,13 +31,13 @@
    - La documentation est réservée aux projets interne et n'est pas communiquée
    - En demandant un accès à la Service Team
 
- - Quel technologie peut être déployée sur DSO ?
+ - Quelle technologie peut être déployée sur l'offre DSO ?
    - De l'infrastructure as code en Terraform
    - Des playbooks de déploiement Ansible
    - Des VM commandées depuis un portails
-   - Conteneurs via des manifests
+   - Des conteneurs via des manifests
 
- - Qui est le point de contact de l’offre CPN vis-à-vis des équipes projets ?
+ - Qui est le point de contact de l’offre CPN pour les équipes projets ?
    - La Service Team
    - Le directeur du numérique
    - Le BACI
@@ -60,7 +61,7 @@
    - Le socle de déploiement est homologué
    - L'ensemble des réponses
 
- - Quels sont les briques à la responsabilité projet ? 
+ - Quelles sont les briques qui restent de la responsabilité des projets ? 
    - Code source de l'application
    - Chaîne primaire de construction
    - Code d'infrastructure pour déployer l'application
