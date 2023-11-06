@@ -1,4 +1,4 @@
-## Contenu du module#1 de formation introduction à la certification Cloud Pi Native ##
+## Module#1 Sessions d'introduction à la certification Cloud Pi Native ##
 
 **Hypothèses liés à la formation :**
 
