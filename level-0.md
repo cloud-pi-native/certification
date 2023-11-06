@@ -3,8 +3,36 @@
  - Qu’est-ce que l’offre Cloud Pi Native ? 
    - Un cadre d'exigences Cloud Native du MIOM
    - Une Usine logicielle DevSecOps
+   - La possibilité d'héberger sur un cloud public 
    - Un accès aux service Cloud Pi
-   - Les 3 réponses listées (X)
+   - Les 4 réponses listées (X)
+
+- Quelles sont les assertions fausses à propos de l’offre Cloud Pi Native ?
+  - Proposer un modèle prédictible pour les usines logicielles ?
+  - Pour permettre à des développeurs de travailler dans leur environnement propre et de faciliter les déploiements sur les environnement étatique ?
+  - Soutenir l'homologation continue des applications ?
+  - Il est impossible d'utiliser l'offre si le projet a été initialisé sans tenir compte de l'offre ? (x)
+
+- Comment le cadre et l'offrent contribuent à la qualité intrinsèques des produits numériques ?
+  - En introduisant un retour rapide au développeur (shift left) ?
+  - Par le respect des exigences du CCT ?
+  - En permettant un déploiement plus fréquent et des batch de travail plus petit ?
+  - En promouvant systèmatiquement des tests automatisés ?
+  - En scanant à chaque build la qualité de code et vis à vis des vulnérabilité connues ? 
+  - Toutes les réponses citées ? ( x)
+
+- Parmis les types d'équipes, laquelle livre la valeur à l'usager :
+  - La service Teams
+  - La stream-aligned Teams (x)
+  - La plateforme Teams
+  - La team complex sub system
+
+- Dans les exigences liées au CCT Cloud Pi Native quelles sont les exigences de type P (primordiale) :
+  - La couverture fonctionnelle des tests unitaires du back end est de 100%
+  - Mise en place d’un principe de collaboration étendue, continue et intégré des processus de livraisons, adéquation de la solution au besoin via l’observabilité, maintien de la qualité, de la disponibilité  et de sécurité depuis le développement juste qu’à la production ( x )
+  - Pour la persistance de données personnelles soumises au RGPD, le modèle de données intègre dès la conception, un tag RGPD, des champs dupliqués dédiés à l’anonymisation et des règles et processus d’anonymisation ainsi qu’une politique de droits associés.
+  - Les conteneurs s'exécutent sans requérir à l’utilisateur root et les ports réseaux internes sont > 1024. ( l’exécution de conteneur non rootless est bloquée en production )( x )
+  - L’application doit pouvoir être monitorable techniquement et fonctionnellement (dont healthcheck) au travers du service de télémétrie mis à dispositionMise à disposition obligatoire au sein de la solution des API de supervision auto descriptive /health  (json+problem) et /metrics (prométheus) et Intégration obligatoire de la solution dans la (ou les) chaîne(s) de supervision ( x )
 
 - Qui bénéficie de l’offre Cloud Pi Native
    - Des products owner (PO)
