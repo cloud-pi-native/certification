@@ -1,11 +1,11 @@
 Table de contenu pour les sessions d'introduction de la certification Cloud Pi Native
 
 Hypothèses :
-La présentation doit pouvoir tenir en 4 1/2 journée avec des séances d'échanges sur les pratiques.
-Les stagiaires ont reçu les modules de cours et des questionnements au préalable.
-Il est réputéé que les stagiaires ont pris connaissance des documents et on mené un test à blanc.
-
-
+La présentation s'effectue en 4x1/2 journée en incluant des séances d'échanges autour des pratiques.
+-Les stagiaires disposent d'une pré-connaissance suffisante sur les thématiques suivante cloud : maitrise de la qualité logicielle, connaissance du CCT cloud Pi Native et de ses exigences, de la conteneurisation, de kubernetes, d'Argo CD.
+-Les stagiaires ont pris connaissance des documents, des modules de cours, du repository Cloud Pi Native, du CCT cloud native
+-Les stagiaires ont mené un test à blanc et on transmis le radar au formateur
+-Les stagiaires a fourni un repository d'exemple qui a pu mettre en oeuvre, avec un code fonctionnel et déployable via Argo CD.
 
 ### Phase 1 : Fondamentaux du Cloud et Développement Logiciel
 
