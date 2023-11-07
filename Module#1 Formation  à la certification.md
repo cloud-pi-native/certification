@@ -37,9 +37,9 @@ Capture des attenteset expliquer ce que permet ou ne permet pas cette formation.
 
 **Pourquoi Cloud Pi Native ?**
 
-***Nous avons mis en oeuvre Cloud Pi Native pour dépasser les limitations du passé, fournir un chemin cohérierles difficultées de passage en production avec le maximum d'efficience pour et de sécurite des produits numérique de qualité qui répondent au besoin des usagers.***
+***Nous avons mis en oeuvre Cloud Pi Native au profit des développeurs, pour dépasser les limitations du passé dans le cadre de travail avec l'Etat et fournir un chemin prédictible pour permettre le passage en production avec le maximum d'efficience et de sécurite des produits numérique de qualité qui répondent au besoin des usagers.***
 
-*Ce que nous nous essayons d'améliorer :*
+*Ce que nous nous souhaitons améliorer :*
 
 - réduire la charge cognitive des équipes pour leurs permettrent de mieux se concentrer sur la production de valeur et d'un code de qualité
 - réduire le temps et la complexité de la conception, la construction, du déploiement et du maintien en condition opérationnelles et de sécurité des d'applications  ( la cible < moins de 5 jours pour le déploiement initial d'un code fonctionnel sur un environnement de production )
