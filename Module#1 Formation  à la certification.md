@@ -1,5 +1,7 @@
 ## Introduction à la certification Cloud Pi Native ##
 
+Cette formation s'adresse aux acteurs qui intègreront une service team dans l'objectif d'accompagner des équipes de développement souhaitant être certifié sur l'offre de service Cloud Pi Native.
+
 **Préparation et hypothèses de la formation :**
 
 - La formation s'effectue en 4 modules de 1/2 journée
@@ -99,10 +101,9 @@ Débat avec les stagiaires : comment mettre en place l'outillage de l'équipe, a
    - maximaliser le flux
    - aider à trouver le juste équilibre dans la répartition et l'organisation des types de tâches ( nouvelles fonctionalités, refactoring, correction de bogues )
 
-
-
 **Ressources additionnelles**
 
-//le parcours de formation CPN.
 //liste des livres d'importance
+//ressources 
+//le parcours de formation CPN.
 
