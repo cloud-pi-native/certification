@@ -2,6 +2,9 @@
 
 Cette formation s'adresse aux acteurs qui intègreront une service team dans l'objectif d'accompagner des équipes de développement souhaitant être certifié sur l'offre de service Cloud Pi Native.
 
+Ce document propose la trame "maître" de la formation minimale à dispenser pour permettre à chaque formateur de monter ses supports. 
+( cf répertoire support de formation )
+
 **Préparation et hypothèses de la formation :**
 
 - La formation s'effectue en 4 modules de 1/2 journée
