@@ -28,7 +28,7 @@
  - objectif #4 : gérer sa communauter intra organisation
  - objectif #5 : faciliter le partage d'expérience, rencontre entre pairs
  - objectif #7 : Comment participer à la co-construction de l'offre et sa roadmap, signaler les éventuelles anomalies faire des PRs.
- - objectif #8 : comprendre la certification et facilité son obtention
+ - objectif #8 : comprendre la certification et faciliter son obtention
 
 **Faire connaissance**
 
