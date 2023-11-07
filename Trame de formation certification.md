@@ -1,4 +1,4 @@
-## Introduction à la certification Cloud Pi Native ##
+## Introduction à la certification Cloud Pi Native (travail en cours)##
 
 Cette formation s'adresse aux acteurs qui intègreront une service team dans l'objectif d'accompagner des équipes de développement souhaitant être certifié sur l'offre de service Cloud Pi Native.
 
