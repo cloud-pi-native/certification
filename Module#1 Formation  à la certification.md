@@ -15,7 +15,8 @@
 ## Contenu de la formation à la certification Cloud Pi Native ##
 
 **Agenda de la formation**
-<Todo>
+//Todo
+
 
 **Objectifs pégagogiques**
 
