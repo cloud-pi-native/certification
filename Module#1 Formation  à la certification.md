@@ -65,15 +65,18 @@ Qu'est ce que vous avez appris récemment ou fait, qui ont changé la donne.
 
 Réponse au question, moment d'échange dans le groupe.
 
-**La qualité logicielle et d'architecture au service de l'agilité et de l'évolutivité**
+**La qualité logicielle et l'architecture au service de l'agilité et de l'évolutivité**
 
 Débat avec les stagiaires : maitriser la complexité et la qualité 
 Comment s'assurer de mettre en place les conditions favorables à la qualité logicielle ? 
 Qu'est ce qui freine le maintien en qualité d'une application ?
 Quelles sont les premières étapes à mettre en oeuvre dans le cas d'un projet déjà lancé ?
 
+- Introduction à Team Topologies
+  - Les 4 types d'équipes
+  - Les 3 types de collaboration
+  - les types de développeurs et leurs préférences
  - L'organisation d'une équipe de développement, grandes activités
- - Trouver le juste équilibre dans les types de tâches
  - Modulariser l'architecture du logiciel, pour réduire les couplages techniques et organisationnels, faciliter la maintenance et les évolutions
  - Découper le travail, limiter le "WIP", la taille des batchs
  - Le sofware Craftmanshift, la refactorisation, Peer review / programming
@@ -86,10 +89,13 @@ Quelles sont les premières étapes à mettre en oeuvre dans le cas d'un projet 
 
 **Accompagner une équipe**
 
-- Introduction à Team Topologies
-  - Les 4 types d'équipes
-  - Les 3 types de collaboration
-  - les types de développeurs et leur préférence
+Débat avec les stagiaires : comment mettre en place l'outillage de l'équipe, accompagner la mise en place des conditions favorables à la livraison en continue de code.
 
-- L'organisation d'une équipe de développement, grandes activités
-- Evaluation et plan de formation de l'équipe ( et coaching personnalisé )
+- Evaluation et mettre en place le plan de formation/coaching de l'équipe ( et coaching personnalisé )
+- Mettre en place la gestion du flux de travail, l'outillage, former l'équipe
+- Observer le fonctionnement de l'équipe, travailler en partenariat avec le PO, le scrumaster, l'architecter pour :
+   - augmenter la modularité du code et la qualité logicielle 
+   - automatiser les tâches
+   - maximaliser le flux
+   - aider à trouver le juste équilibre dans la répartition et l'organisation des types de tâches ( nouvelles fonctionalités, refactoring, correction de bogues )
+
