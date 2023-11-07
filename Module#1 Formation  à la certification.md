@@ -21,14 +21,14 @@
 
 **Objectifs pégagogiques**
 
-objectif #1 : comprendre l'offre et sa raison d'être
-objectif #2 : partager l'attendu des équipes services teams
-objectif #3 : définir des parcours / chemin d'apprentissage pour les équipes de développement
-objectif #4 : mettre en place un flux d'usine logicielle prenant en compte le feedback en continue vers le développeur ( et la gestion de l'automatisation des tests et des analyses de qualité et de vulnérabilité)
-objectif #4 : gérer sa communauter intra organisation
-objectif #5 : faciliter le partage d'expérience, rencontre entre pairs
-objectif #7 : Comment participer à la co-construction de l'offre et sa roadmap, signaler les éventuelles anomalies faire des PRs.
-objectif #8 : comprendre la certification et facilité son obtention
+ - objectif #1 : comprendre l'offre et sa raison d'être
+ - objectif #2 : partager l'attendu des équipes services teams
+ - objectif #3 : définir des parcours / chemin d'apprentissage pour les équipes de développement
+ - objectif #4 : mettre en place un flux d'usine logicielle prenant en compte le feedback en continue vers le développeur ( et la gestion de l'automatisation des tests et des analyses de qualité et de vulnérabilité)
+ - objectif #4 : gérer sa communauter intra organisation
+ - objectif #5 : faciliter le partage d'expérience, rencontre entre pairs
+ - objectif #7 : Comment participer à la co-construction de l'offre et sa roadmap, signaler les éventuelles anomalies faire des PRs.
+ - objectif #8 : comprendre la certification et facilité son obtention
 
 **Faire connaissance**
 
