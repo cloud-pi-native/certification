@@ -99,3 +99,10 @@ Débat avec les stagiaires : comment mettre en place l'outillage de l'équipe, a
    - maximaliser le flux
    - aider à trouver le juste équilibre dans la répartition et l'organisation des types de tâches ( nouvelles fonctionalités, refactoring, correction de bogues )
 
+
+
+**Ressources additionnelles**
+
+//le parcours de formation CPN.
+//liste des livres d'importance
+
