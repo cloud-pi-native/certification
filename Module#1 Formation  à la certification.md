@@ -55,7 +55,7 @@ Capture des attenteset expliquer ce que permet ou ne permet pas cette formation.
 - Favoriser l'innovation en s'appuyant sur un écosystème dynamique (CNCS)
 
 Réponse aux questions, moment d'échange dans le groupe, priorisation des thématiques.
-Qu'est ce que vous avez appris récemment ou fait qui a changé la donne.
+Qu'est ce que vous avez appris récemment ou fait, qui ont changé la donne.
 
 **Mise en pratique rapide de l'offre et démonstration**
 
