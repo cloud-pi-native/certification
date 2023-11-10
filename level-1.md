@@ -9,7 +9,7 @@
 
  - Qu’est-ce qu’un POD ? 
 
- - Comment créer un POD restreint ? 
+ - Comment créer un POD résilient ? 
    - XXX
    - XXX
    - XXX
