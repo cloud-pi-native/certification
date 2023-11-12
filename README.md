@@ -2,7 +2,7 @@
 
 Ce programme de certification s'adresse aux experts en charge de coacher et superviser les pratiques des équipes d'accompagnement DevSecOps (enabling team) au service des équipes intégrées en charge de la réalisation de produits numériques.
 
-Le matériel pédagogique proposé permet simultanément de former les experts et également ainsi que leurs fournir des outils permettant d'aider à définir le plan d'accompagnement et de formation des équipes *enabling*.
+Le matériel pédagogique proposé en open-source permet simultanément de former les experts et également ainsi que leurs fournir des outils permettant d'aider à définir le plan d'accompagnement et de formation des équipes *enabling*.
 
 L'évaluation prend en charge la compétence nécessaire à soutenir l'agilité mais ne couvre pas le cadre méthodologique. Voir des cadres tel que SAFe pour cet objectif.
 
