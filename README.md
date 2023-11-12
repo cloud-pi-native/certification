@@ -1,22 +1,37 @@
 # Certification Cloud Pi Native (work-in-progress)
 
+Ce programme de certification s'adresse aux experts en charge de coacher et superviser les pratiques des équipes d'accompagnement DevSecOps (enabling team) au service des équipes intégrées en charge de la réalisation de produits numériques.
+
+Le matériel pédagogique proposé permet simultanément de former les experts et également ainsi que leurs fournir des outils permettant d'aider à définir le plan d'accompagnement et de formation des équipes *enabling*.
+
+L'évaluation prend en charge la compétence nécessaire à soutenir l'agilité mais ne couvre pas le cadre méthodologique. Voir des cadres tel que SAFe pour cet objectif.
+
+La certification "Cloud Pi Native" est remise par le ministère de l'Intérieur ou toutes entités qui a reçu l'acréditation pour le faire à l'issus de passage d'un examen théorique en ligne et d'une échange observation des experts dans un contexte.
+
+Si vous êtes intéressé, avez des questions et/ou suggestion, contactez-nous à:
+<cloudpinative-relations@interieur.gouv.fr>
+
 **Dans ce repository vous trouverez l'ensemble des ressources nécessaire pour:**
 - comprendre l'offre et la vision
 - comprendre et le processus de certification
 - identifier les compétences requises
 - contribuer à l'offre et au contenu de la certification
 - mettre en oeuvre le processus de certification et à qui il s'adresse
+- les quizz d'auto-évaluation.
 
-**Contexte et vision:**
+Ce repository référence les capacités et messages clés à transmettre mais ne référence par les contenus détaillés. Les experts se forment avec les programmes de leur choix, ils doivent juste être connaissant ou compétent sur les thèmes cités. 
+
+A toutes fin utiles : une base de connaissance et d'embarquement en open-source "Cloud Native" est disponible sur : <https://github.com/cloud-pi-native/embarquement-autoformation>. C'est également une aide pour monter des parcours.
+
+**Les messages clés, le contexte et la vision:**
 
 Cloud Pi Native est un programme d'ensemble du ministère de l'Intérieur et des Outres-mer pour produire un numérique de qualité, soutenable dans la durée au coup de possession optimisé et qui répond au besoin. 
 L'objectif visé est de soutenir la production de produits logiciels de qualité, en réduisant la xharge de travail de l'équipe pour le construire, facilement évolutif et maintenable dans le temps avec un coût de possession optimisé tout en répondant au besoin en ce centrant sur l'usager.
 
-Les choix structurant sont l'utilisation exclusive de Kubernetes pour l'orchestration de conteuneurs,le modèle opérationnel "you built it, you run it" et la mise en disposition en open-source de l'ensemble des ressources sauf portion sensible.
-L'hébergement peut-être effectué soit au ministère soit sur un cloud public si le niveau de sensbilité des données le permet et l'absence de conflit de norme juridique entre les CGU de l'hébergeur avec les réglementations française et européennes.
+Ce qui est structurant : l'utilisation exclusive de Kubernetes pour l'orchestration de conteuneurs,le modèle opérationnel "you built it, you run it" et la mise en disposition en open-source de l'ensemble des ressources sauf portion sensible.
 
-Cette certification à pour objectif de permettre de mettre en place un plan de développement des connaissances / compétences à travers au sein des équipes "services team" en charge d'aider les équipes produits intégrées et également de fournir une auto-évaluation personalisée de leurs compétences techniques pour toutes celles et ceux en charge de produire du numérique. 
-L'évaluation prend en charge la compétence nécessaire à soutenir l'agilité mais ne couvre pas le cadre méthodologique. Voir des cadres tel que SAFe pour cet objectif.
+L'hébergement du service peut-être effectué soit via l'offre interministériel Cloud Pi, soit sur un cloud public si le niveau de sensbilité des données le permet ainsi que l'absence de conflit de normes juridiques entre les CGU de l'hébergeur avec les réglementations française et européennes.
+
 
 **Le programme d'ensemble Cloud Pi Native inclus :**
 
@@ -41,11 +56,18 @@ Il est envisagé que tout individu intéressé puisse suivre le programme pour i
  Le rythme de production de la certification est réalisée en incrément de planning tout les 2,5 mois environ. Synchronisé avec la production de l'offre elle-même.
  Signalez-vous par les fonctions collaboratives de GitHub.
 
- Nous sommes à votre écoute pour toute suggestion, critique et apport de contenu. 
+Nous sommes à votre écoute pour toute suggestion, critique et apport de contenu. 
 
 Bien à vous, l'équipe Cloud Pi Native ;)
 
 
+Définitions :
+
+*Enabling team* est défini au sein du livre *Team Topologies* cf. : <https://hennyportman.wordpress.com/2020/05/25/review-team-topologies/>
+
+Selon les organisation, ces équipes peuvent parfois s'appeler équipes DevOps ou par abus de langage *SRE*, si inclusion d'une activité SysAdmin.
+
+Le terme SRE est un terme spécifique à l'organisation Google cf <https://cloud.google.com/sre?hl=fr>
 
 
 
