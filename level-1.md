@@ -2,9 +2,10 @@
 
 ## Pré-requis 
  - Qu’est-ce que Kubernetes ?
-   - XXX
-   - XXX
-   - XXX
+   - Un Hyperviseur de machines virtuelles 
+   - Un orchestrateur de Containers
+   - Une distribution Linux orienté Containers
+   - Un langage de programmation
  - Quelles différences entre OpenShift et K8S d’un point de vue utilisateur ? 
 
  - Qu’est-ce qu’un POD ? 
