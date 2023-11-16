@@ -79,8 +79,6 @@
    
 ## Techniques
  - Qu’est ce qui peut expliquer que mon déploiement est bloqué côté MI ? 
-   - Absence du label 
-   - Absence de requests / limits sur mon déploiement 
    - Absence de readiness / liveness sur mon déploiement 
    - Dépassement de quotas
    - Tag d’image à latest 
