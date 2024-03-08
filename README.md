@@ -16,7 +16,9 @@ population visés :
   
 - les ops au service de l'équipe intégrée ( l'intégration, mettre le + vite possible en prod un dév, l'éxploitabilité de l'application, l'amélioration continue
 -   >> monter l'infra-structure, flux et la stabilité de la solution, mettre en place la culture et les pratique dévSecOps. ;
-- les chammpions / coach.
+    >> CKAD ( flux dev ) , CKS (ops vue cyber), certif openshift ?
+
+-   les chammpions / coach.
 - les concepteurs d'application cloud native. ( oppoortunité k8s, vs organique qui va le maintenir )
 
 
