@@ -13,7 +13,7 @@ population visés :
 - centré sur les équipes intégrées qui vont utiliser l'offre ;
 - les devops / sre ;
 - les chammpions / coach.
-- les concepteurs cloud native.
+- les concepteurs d'application cloud native. ( oppoortunité k8s, vs organique qui va le maintenir )
 
 
 Le matériel pédagogique proposé en open-source permet simultanément de former les experts et également ainsi que leurs fournir des outils permettant d'aider à définir le plan d'accompagnement et de formation des équipes *enabling*.
