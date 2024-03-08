@@ -18,6 +18,16 @@ population visés :
 -   >> monter l'infra-structure, flux et la stabilité de la solution, mettre en place la culture et les pratique dévSecOps. ;
     >> CKAD ( flux dev ) , CKS (ops vue cyber), certif openshift ?
 >> limiter les crashs program / partager la culture / favoriser l'open source.
+tu as un compte...
+déploie une application fictive.
+avoir une grille >> observabilité... + de point...
+
+>> cas defectueux... 
+chaosmonkey ?
+automatiser...
+>
+>
+
 >> 
 
 -   les chammpions / coach.
