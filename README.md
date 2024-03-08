@@ -1,6 +1,13 @@
+
+
+
+
 # Certification Cloud Pi Native (work-in-progress)
 
 Ce programme de certification s'adresse aux experts en charge de coacher et superviser les pratiques des équipes d'accompagnement DevSecOps (enabling team) au service des équipes intégrées en charge de la réalisation de produits numériques.
+
+L'effet recherché : produire des applications de qualité qui répondent au besoin, en soutenant l'agilité et le kraftmanship.
+le step minimal : kube au profit des développeurs. CKA ( ops ) , CKAD ( dev ) , CKS (ops vue cyber à
 
 Le matériel pédagogique proposé en open-source permet simultanément de former les experts et également ainsi que leurs fournir des outils permettant d'aider à définir le plan d'accompagnement et de formation des équipes *enabling*.
 
