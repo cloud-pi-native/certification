@@ -6,13 +6,14 @@
 
 Ce programme de certification s'adresse aux experts en charge de coacher et superviser les pratiques des équipes d'accompagnement DevSecOps (enabling team) au service des équipes intégrées en charge de la réalisation de produits numériques.
 
-L'effet recherché : produire des applications de qualité qui répondent au besoin, en soutenant l'agilité et le kraftmanship.
+L'effet recherché : produire des applications de qualité qui répondent au besoin, en soutenant l'agilité, la culture et les principes visant l'autonomie et centrée.
 le step minimal : kube au profit des développeurs. CKA ( ops ) , CKAD ( dev ) , CKS (ops vue cyber à
 
 population visés :
-- les developpeurs qui vont utiliser l'offre ;
+- centré sur les équipes intégrées qui vont utiliser l'offre ;
 - les devops / sre ;
-- les chammpions.
+- les chammpions / coach.
+- les concepteurs cloud native.
 
 
 Le matériel pédagogique proposé en open-source permet simultanément de former les experts et également ainsi que leurs fournir des outils permettant d'aider à définir le plan d'accompagnement et de formation des équipes *enabling*.
