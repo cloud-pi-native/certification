@@ -9,6 +9,12 @@ Ce programme de certification s'adresse aux experts en charge de coacher et supe
 L'effet recherché : produire des applications de qualité qui répondent au besoin, en soutenant l'agilité et le kraftmanship.
 le step minimal : kube au profit des développeurs. CKA ( ops ) , CKAD ( dev ) , CKS (ops vue cyber à
 
+population visés :
+- les developpeurs qui vont utiliser l'offre ;
+- les devops / sre ;
+- les chammpions.
+
+
 Le matériel pédagogique proposé en open-source permet simultanément de former les experts et également ainsi que leurs fournir des outils permettant d'aider à définir le plan d'accompagnement et de formation des équipes *enabling*.
 
 L'évaluation prend en charge la compétence nécessaire à soutenir l'agilité mais ne couvre pas le cadre méthodologique. Voir des cadres tel que SAFe pour cet objectif.
