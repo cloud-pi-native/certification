@@ -11,6 +11,9 @@ le step minimal : kube au profit des développeurs. CKA ( ops ) , CKAD ( dev ) ,
 
 population visés :
 - centré sur les équipes intégrées qui vont utiliser l'offre ;
+-> contrainte / opportunité de l'offre.
+> référencer kraft / l'amélioration continue
+  
 - les devops / sre ;
 - les chammpions / coach.
 - les concepteurs d'application cloud native. ( oppoortunité k8s, vs organique qui va le maintenir )
