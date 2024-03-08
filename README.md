@@ -4,36 +4,57 @@
 
 # Certification Cloud Pi Native (work-in-progress)
 
-Ce programme de certification s'adresse aux experts en charge de coacher et superviser les pratiques des équipes d'accompagnement DevSecOps (enabling team) au service des équipes intégrées en charge de la réalisation de produits numériques.
+L'effet recherché de Cloud Pi Native est de : produire des applications de qualité qui répondent au besoin, en soutenant l'agilité, la culture et les principes visant l'autonomie et centrés.
 
-L'effet recherché : produire des applications de qualité qui répondent au besoin, en soutenant l'agilité, la culture et les principes visant l'autonomie et centrée.
-le step minimal : kube au profit des développeurs. CKA ( ops ) , CKAD ( dev ) , CKS (ops vue cyber à
+Plusieurs populations sont visées par le produit Cloud Pi Native et la doctrine Cloud au Centre :
+ * les **équipes intégrées** qui utilisent le produit Cloud Pi Native au quotidien
+    * comprendre le cadre d'autonomie, les opportunités et contraintes de Cloud Pi Native, apportés par l'utilisation de Cloud Pi Native & le Cadre de Cohérence Technique Intermistériel
+    * être sensibilisé aux références du Software CraftSmanship
+    * connaitre l'éco-systeme kubernetes
+ * les **"DevSecOps/SRE/Champions/enabling team"** (terme à définir) au service de ou des équipes intégrées, qui accompagnent, coachent, supervisent leurs pratiques DevSecOps et Cloud Native
+    * Mettre les équipes intégrées dans un cycle d'amélioration continue des projets
+    * Être orienté sur le partage et la montée en compétence collective
+    * mettre en place la culture de l'excellence et les pratiques DevSecOps au sein des équipes intégrées
+    * assurer le provisionnement des infrastructures et pipeline, le flux et la stabilité de la solution
+    * démontrer sa maitrise sur des prérequis techniques d'intégration et d'exploitabilité d'application
+ * les **concepteurs d'application** cloud native  (opportunité k8s, vs organique qui le maintiendra)
+Ce programme de certification soutient l'effet recherché et s'adresse aux experts en charge d'accompagner, de coacher et de superviser les pratiques DevSecOps et Cloud Native ("DevSecOps/SRE/Champions/enabling team") au service des équipes intégrées en charge de la réalisation de produits numériques.
 
-population visés :
-- centré sur les équipes intégrées qui vont utiliser l'offre ;
--> contrainte / opportunité de l'offre.
-> référencer kraft / l'amélioration continue
-  
-- les ops au service de l'équipe intégrée ( l'intégration, mettre le + vite possible en prod un dév, l'éxploitabilité de l'application, l'amélioration continue
--   >> monter l'infra-structure, flux et la stabilité de la solution, mettre en place la culture et les pratique dévSecOps. ;
-    >> CKAD ( flux dev ) , CKS (ops vue cyber), certif openshift ?
->> limiter les crashs program / partager la culture / favoriser l'open source.
->> pet company...
-tu as un compte...
-déploie une application fictive.
-avoir une grille >> observabilité... + de point...
+**Les compétences et savoir-faires attendus**
+Pour les équipes intégrées 
+ * comprendre le cadre d'autonomie, les opportunités et contraintes de Cloud Pi Native, apportés par l'utilisation de Cloud Pi Native & le Cadre de Cohérence Technique Intermistériel
+ * être sensibiliser aux références du Software CraftSmanship
+ * connaitre l'éco-systeme kubernetes
 
->> cas defectueux... 
-chaosmonkey ?
-automatiser...
->
->
+Pour les "DevSecOps/SRE/Champions/enabling team" 
+* Mettre les équipes intégrées dans une cycle d'amélioration continue des projets
+* Être orienté sur le partage et la montée en compétence collective
+* s'assurer de la 
+* mettre en place la culture de l'excellence et les pratiques DevSecOps au sein des équipes intégrées
+* assurer le provisionnement des infrastructures et pipeline, le flux et la stabilité de la solution
+* démontrer sa maitrise sur des prérequis techniques d'intégration et d'exploitabilité d'application
 
->> 
+**Les modalités de certification**
+Prérequis : 
+* la certification est soumise à un prérequis d'obtention de la Certified Kubernetes Application Developer de la Linux Foundation, permettant de garantir la bonne maitrise de kubernetes en tant que développeur
 
--   les chammpions / coach.
-- les concepteurs d'application cloud native. ( oppoortunité k8s, vs organique qui va le maintenir )
+Promotion :
+* Des promotions de 20 personnes sont organisées 2 à 3 fois par an par Cloud Pi Native. Veuillez contacter cloudpinative-relations@interieur.gouv.fr pour enregistrer votre candidature.
 
+Type d'examen :
+*  l'examen est réalisé en présentiel sur Paris, à ce jour.
+*  La durée de l'examen varie entre 2 & 4 heures
+*  Le passage d'examen et la certification sont individuels, sous la supervision d'un représentant Cloud Pi Native
+*  L'examen est composé de 2 volets :
+  * technique : des mises en situation et lab seront soumis. 
+  * culture générale & process : un questionnaire sera soumis, permettant de vérifier votre bonne compréhension des processus clés et des normes à prendre en compte lors du cycle de vie du projet et de l'application
+  Chaque lab réalisé avec succès et réponse exacte octroient des points.
+
+Condition d'obtention :
+* un score minumum de 80% est nécessaire pour l'obtention de la certification Cloud Pi Native - "DevSecOps/SRE/Champions/enabling team" (nom à définir)
+
+
+-------------
 
 Le matériel pédagogique proposé en open-source permet simultanément de former les experts et également ainsi que leurs fournir des outils permettant d'aider à définir le plan d'accompagnement et de formation des équipes *enabling*.
 
