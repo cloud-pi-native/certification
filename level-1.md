@@ -2,9 +2,10 @@
 
 ## Pré-requis 
  - Qu’est-ce que Kubernetes ?
-   - XXX
-   - XXX
-   - XXX
+   - Un Hyperviseur de machines virtuelles 
+   - Un orchestrateur de Containers
+   - Une distribution Linux orienté Containers
+   - Un langage de programmation
  - Quelles différences entre OpenShift et K8S d’un point de vue utilisateur ? 
 
  - Qu’est-ce qu’un POD ? 
@@ -78,8 +79,6 @@
    
 ## Techniques
  - Qu’est ce qui peut expliquer que mon déploiement est bloqué côté MI ? 
-   - Absence du label 
-   - Absence de requests / limits sur mon déploiement 
    - Absence de readiness / liveness sur mon déploiement 
    - Dépassement de quotas
    - Tag d’image à latest 
