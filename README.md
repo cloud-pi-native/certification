@@ -4,7 +4,7 @@
 
 # Certification Cloud Pi Native (work-in-progress)
 
-L'effet recherché de Cloud Pi Native est de : produire des applications de qualité qui répondent au besoin, en soutenant l'agilité, la culture et les principes visant l'autonomie et centrés.
+L'effet recherché de Cloud Pi Native est de : produire des applications de qualité qui répondent au besoin, en soutenant l'agilité, la culture et les principes visant l'autonomie et centrés sur l'usage.
 
 Plusieurs populations sont visées par le produit Cloud Pi Native et la doctrine Cloud au Centre :
  * les **équipes intégrées** qui utilisent le produit Cloud Pi Native au quotidien
