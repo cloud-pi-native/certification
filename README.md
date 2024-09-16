@@ -70,7 +70,7 @@ Si vous êtes intéressé, avez des questions et/ou suggestion, contactez-nous �
 - Les fondamentaux à connaitre pour mettre en oeuvre et maintenir dans le temps des applications de qualité qui répondent aux besoins;
 - mettre en place l'amélioration continue et le refactoring;
 - softskill et approche pour accompagner les les équipes de développement;
-- connaissance du CCT Cloud Pi native et des exigences applicables;
+- connaissance du [CCT Cloud Pi native](https://github.com/cloud-pi-native/CCT-Cloud-Native) et des exigences applicables;
 - compréhension de l'offre de service Cloud Pi Native et le parcours de contractualisation;
 - compréhension et utilisation de la chaine de construction applicative;
 - comment contribuer à l'offre pull request et faire un feedback.
