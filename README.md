@@ -29,7 +29,6 @@ Pour les équipes intégrées
 Pour les "DevSecOps/SRE/Champions/enabling team" 
 * Mettre les équipes intégrées dans une cycle d'amélioration continue des projets
 * Être orienté sur le partage et la montée en compétence collective
-* s'assurer de la 
 * mettre en place la culture de l'excellence et les pratiques DevSecOps au sein des équipes intégrées
 * assurer le provisionnement des infrastructures et pipeline, le flux et la stabilité de la solution
 * démontrer sa maitrise sur des prérequis techniques d'intégration et d'exploitabilité d'application
